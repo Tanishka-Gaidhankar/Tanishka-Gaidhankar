@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishka-gaidhankar" alt="tanishka-gaidhankar" /></a> </p>
 
-- 🔭 I’m currently working on **Legal Assistance AI  Agents**
+- 🔭 I’m currently working on **Legal Assistance and Constitutional Knowledge Platform**
 
-- 🌱 I’m currently learning **Generative AI and tools**
+- 🌱 I’m currently learning **MCP's**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tanishka-Gaidhankar](https://github.com/Tanishka-Gaidhankar)
 
