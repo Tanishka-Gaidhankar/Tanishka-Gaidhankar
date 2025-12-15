@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tanishka.gaidhankar@gmail.com**
 
-- 📄 Know about my experiences [https://acesse.one/Tanishka-Gaidhankar-Resume](https://acesse.one/Tanishka-Gaidhankar-Resume)
+
 
 
 ## 🌐 Socials:
