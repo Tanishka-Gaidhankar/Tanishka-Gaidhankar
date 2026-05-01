@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Legal Assistance and Constitutional Knowledge Platform**
+- 🔭 I’m currently working on **Ethical AI for safe prompts**
 
 - 🌱 I’m currently learning **MCP's**
 
