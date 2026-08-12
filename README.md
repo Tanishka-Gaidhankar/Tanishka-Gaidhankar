@@ -8,7 +8,7 @@
 
 ### ◆ Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanishka%20Gaidhankar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/REPLACE-ME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanishka%20Gaidhankar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/tanishka-gaidhankar-b187aa28a/)
 [![Gmail](https://img.shields.io/badge/Gmail-tanishka.gaidhankar-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:tanishka.gaidhankar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Tanishka--Gaidhankar-FF69B4?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Tanishka-Gaidhankar)
 [![Phone](https://img.shields.io/badge/Phone-%2B91_9405385805-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](tel:+919405385805)
